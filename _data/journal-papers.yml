@@ -22,6 +22,37 @@
 
 
 - authors:
+  - name: Xiuting 
+    last-name: Ge
+  - name: Chunrong 
+    last-name: Fang
+  - name: Xuanye 
+    last-name: Li
+  - name:  Weisong 
+    last-name: Sun
+  - name: Daoyuan 
+    last-name: Wu
+  - name:  Juan 
+    last-name: Zhai
+  - name: Shang-Wei 
+    last-name: Lin
+  - name:  Zhihong 
+    last-name: Zhao
+  - name: Yang 
+    last-name: Liu
+  - name:  Zhenyu 
+    last-name: Chen
+  highlight-author:
+    name: Shang-Wei
+    last-name: Lin
+  title: "Machine Learning for Actionable Warning Identification: A Comprehensive Survey"
+  venue: ACM Computing Surveys
+  publish-detail: 
+  year: 2024
+  remark: (accepted for publication)
+
+
+- authors:
   - name: Wenbing 
     last-name: Tang
   - name: Fenghua 
