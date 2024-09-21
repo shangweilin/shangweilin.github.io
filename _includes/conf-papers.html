@@ -1,0 +1,47 @@
+<div>
+
+<!-- <link href="/assets/css/bootstrap.min.css" rel="stylesheet"> -->
+
+
+<ol>
+    {% for entry in site.data.conference-papers | sort: "year" %}
+    {% if entry.authors[0].name != null %}
+        <li style="font-size: 0.9em">
+        
+            {% for author in entry.authors %}
+                {% assign suffix = ", " %}
+                {% assign prefix = "" %}
+                {% assign last-name = author.last-name | upcase %}
+        
+                {% if forloop.last %}
+                    {% assign suffix = "." %}
+                    {% assign prefix = "and " %}
+                {% endif %}
+        
+                {% assign fullname =  author.name | append: " " | append: last-name %}
+                {% if author.name == entry.highlight-author.name %}
+                    {% assign fullname = fullname | prepend: "<u>" | append: "</u>" %}
+                {% endif %}
+                {{fullname | prepend: prefix | append: suffix}}
+            {% endfor %}
+    
+            <b>{{entry.title}}</b>.
+            <i>{{entry.venue | prepend: " " | append: ", "}}</i>
+        
+            {% if entry.publish-detail %}
+            {{entry.publish-detail | append: ", "}}
+            {% endif %}
+        
+            {{entry.year | append: "."}}
+            
+            {% if entry.remark %}
+                {{ entry.remark | prepend: " "}}
+            {% endif %}
+            
+            <br><br>
+        {% endif %}
+    {% endfor %}
+    </ol>
+
+
+</div>

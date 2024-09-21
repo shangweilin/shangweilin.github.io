@@ -1,0 +1,537 @@
+- authors:
+  - name: 
+    last-name: 
+  - name: 
+    last-name: 
+  - name: 
+    last-name: 
+  - name: 
+    last-name: 
+  - name:
+    last-name: 
+  - name:  
+    last-name: 
+  highlight-author:
+    name: 
+    last-name: 
+  title: 
+  venue: 
+  publish-detail: 
+  year: 
+  remark:
+
+- authors:
+  - name: Yanran 
+    last-name: Li
+  - name: Yan 
+    last-name: Zheng
+  - name: Yon Shin 
+    last-name: Teo
+  - name: Shang-Wei
+    last-name: Lin
+  highlight-author:
+    name: Shang-Wei
+    last-name: Lin
+  title: Is AI Testing Beneficial for The Manufacturer and Social Welfare? Optimal Test Strategy of A Smart Product
+  venue: Expert Systems with Applications
+  publish-detail: 
+  year: 2024
+  remark: (accepted for publication)
+
+- authors:
+  - name: Yuan 
+    last-name: Zhou
+  - name: Hesuan 
+    last-name: Hu
+  - name: Gelei 
+    last-name: Deng
+  - name:  Kun
+    last-name: Cheng
+  - name: Shang-Wei
+    last-name: Lin
+  - name: Yang
+    last-name: Liu
+  - name: Zuohua 
+    last-name: Ding
+  highlight-author:
+    name: Shang-Wei
+    last-name: Lin
+  title: Distributed Motion Control for Multiple Mobile Robots Using Discrete-Event Systems and Model Predictive Control
+  venue: "IEEE Transactions on Systems, Man, and Cybernetics: Systems (TSMC)"
+  publish-detail: 
+  year: 2023
+  remark: (accepted for publication)
+
+
+- authors:
+  - name: Yean-Ru
+    last-name: Chen
+  - name: Si-Han
+    last-name: Chen
+  - name: Shang-Wei
+    last-name: Lin
+  highlight-author:
+    name: Shang-Wei
+    last-name: Lin
+  title: SMT Solver with Hardware Acceleration
+  venue: IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)
+  publish-detail: 
+  year: 2022
+  remark: (accepted for publication)
+
+- authors:
+  - name: Bozhi  
+    last-name: Wu
+  - name: Shangqing  
+    last-name: Liu
+  - name: Ruitao 
+    last-name: Feng
+  - name:  Xiaofei 
+    last-name: Xie
+  - name: Jingkai  
+    last-name: Siow
+  - name: Shang-Wei
+    last-name: Lin
+  highlight-author:
+    name: Shang-Wei
+    last-name: Lin
+  title: Enhancing Security Patch Identification by Capturing Structures in Commits
+  venue: IEEE Transactions on Dependable and Secure Computing (TDSC)
+  publish-detail: 
+  year: 2022
+  remark: (accepted for publication)
+
+- authors:
+  - name: Yupeng 
+    last-name: Cheng
+  - name: Qing  
+    last-name: Guo
+  - name: Felix Juefei
+    last-name: Xu
+  - name: Xiaofei 
+    last-name: Xie
+  - name: Shang-Wei
+    last-name: Lin
+  - name:  Weisi
+    last-name: Lin
+  - name:  Wei 
+    last-name: Feng
+  - name:  Yang 
+    last-name: Liu
+  highlight-author:
+    name: Shang-Wei
+    last-name: Lin
+  title: "Pasadena: Perceptually Aware and Stealthy Adversarial Denoise Attack"
+  venue: IEEE Transactions on Multimedia (TMM)
+  publish-detail: 
+  year: 2021
+  remark: (accepted for publication)
+
+
+- authors:
+  - name: Xinwen  
+    last-name:  Hu
+  - name: Yi  
+    last-name: Zhuang
+  - name: Shang-Wei
+    last-name: Lin
+  - name: Fuyuan  
+    last-name: Zhang
+  - name: Shuanglong  
+    last-name: Kan
+  - name: Zining   
+    last-name: Cao
+  highlight-author:
+    name: Shang-Wei
+    last-name: Lin
+  title: A Security Type Verifier for Smart Contracts
+  venue: Computers & Security
+  publish-detail: Vol. 108, pp. 102343
+  year: 2021
+  remark: 
+
+
+- authors:
+  - name: Palina   
+    last-name: Tolmach
+  - name: Yi  
+    last-name: Li
+  - name: Shang-Wei
+    last-name: Lin
+  - name: Yang 
+    last-name: Liu
+  - name: Zengxiang 
+    last-name: Li
+  highlight-author:
+    name: Shang-Wei
+    last-name: Lin
+  title: A Survey of Smart Contract Formal Specification and Verification
+  venue: ACM Computing Surveys (CSUR)
+  publish-detail: Vol. 54, Issue 7, pp. 1-38
+  year: 2021
+  remark: 
+
+
+- authors:
+  - name: David     
+    last-name: Sanán
+  - name: Yongwang   
+    last-name: Zhao
+  - name: Shang-Wei
+    last-name: Lin
+  - name: Yang 
+    last-name: Liu
+  highlight-author:
+    name: Shang-Wei
+    last-name: Lin
+  title: "CSim2: Compositional Top-down Verification of Concurrent Systems using Rely-Guarantee"
+  venue: ACM Transactions on Programming Languages and Systems (TOPLAS)
+  publish-detail: Vol. 43, Issue 1, pp. 1-46
+  year: 2021
+  remark: 
+
+- authors:
+  - name: Haijun   
+    last-name: Wang
+  - name: Yi  
+    last-name: Li
+  - name: Shang-Wei
+    last-name: Lin
+  - name: Cyrille
+    last-name: Artho
+  - name: Lei 
+    last-name: Ma
+  - name: Yang 
+    last-name: Liu
+  highlight-author:
+    name: Shang-Wei
+    last-name: Lin
+  title: Oracle- Supported Dynamic Exploit Generation for Smart Contracts
+  venue: IEEE Transactions on Dependable and Secure Computing (TDSC)
+  publish-detail:
+  year: 2021
+  remark:
+
+- authors:
+  - name: Ruitao    
+    last-name: Feng
+  - name:  Sen    
+    last-name: Chen
+  - name: Xiaofei
+    last-name: Xie
+  - name:  Guozhu 
+    last-name: Meng
+  - name: Shang-Wei
+    last-name: Lin
+  - name: Yang 
+    last-name: Liu
+  highlight-author:
+    name: Shang-Wei
+    last-name: Lin
+  title: A Performance-Sensitive Malware Detection System Using Deep Learning on Mobile Devices
+  venue: IEEE Transactions on Information Forensics & Security (TIFS)
+  publish-detail: Vol. 16, pp. 1563-1578
+  year: 2020
+  remark:
+
+
+- authors:
+  - name: Yuan     
+    last-name: Zhou
+  - name: Hesuan     
+    last-name: Hu
+  - name: Yang 
+    last-name: Liu
+  - name: Shang-Wei
+    last-name: Lin
+  - name: Zuohua 
+    last-name: Ding
+  highlight-author:
+    name: Shang-Wei
+    last-name: Lin
+  title: A Distributed Method to Avoid Higher-Order Deadlocks in Multi-Robot Systems
+  venue: Automatica
+  publish-detail: Vol. 112
+  year: 2020
+  remark:  
+
+
+- authors:
+  - name: Yuan     
+    last-name: Zhou
+  - name: Hesuan     
+    last-name: Hu
+  - name: Yang 
+    last-name: Liu
+  - name: Shang-Wei
+    last-name: Lin
+  - name: Zuohua 
+    last-name: Ding
+  highlight-author:
+    name: Shang-Wei
+    last-name: Lin
+  title: A Distributed Approach to Robust Control of Multi-Robot Systems
+  venue: Automatica
+  publish-detail: Vol. 98, pp. 1-13
+  year: 2018
+  remark:  
+
+
+- authors:
+  - name: Étienne      
+    last-name: André
+  - name: Shang-Wei
+    last-name: Lin
+  highlight-author:
+    name: Shang-Wei
+    last-name: Lin
+  title: The Language Preservation Problem Is Undecidable for Parametric Event-Recording Automata
+  venue: Information Processing Letters
+  publish-detail: Vol. 136, pp. 17-20
+  year: 2018
+  remark:
+
+
+- authors:
+  - name: Deheng      
+    last-name: Ye
+  - name:  Lingfeng      
+    last-name: Bao
+  - name: Zhenchang 
+    last-name: Xing
+  - name: Shang-Wei
+    last-name: Lin
+  highlight-author:
+    name: Shang-Wei
+    last-name: Lin
+  title: "APIReal: An API Recognition and Linking Approach for Online Developer Forums"
+  venue: Empirical Software Engineering
+  publish-detail: Vol. 23, No. 6, pp. 3129-3160
+  year: 2018
+  remark:  
+
+
+
+- authors:
+  - name: Yuan     
+    last-name: Zhou
+  - name: Hesuan     
+    last-name: Hu
+  - name: Yang 
+    last-name: Liu
+  - name: Shang-Wei
+    last-name: Lin
+  - name: Zuohua 
+    last-name: Ding
+  highlight-author:
+    name: Shang-Wei
+    last-name: Lin
+  title: A Real-Time and Fully Distributed Approach to Motion Planning for Multi-Robot Systems
+  venue: "IEEE Transactions on Systems, Man, and Cybernetics: Systems (TSMC)"
+  publish-detail: Vol. 49, Issue 12, pp. 2636-2650
+  year: 2017
+  remark:  
+
+
+- authors:
+  - name: Huiquan       
+    last-name: Zhu
+  - name: Jing      
+    last-name: Sun
+  - name:  Jin Song  
+    last-name: Dong
+  - name: Shang-Wei
+    last-name: Lin
+  highlight-author:
+    name: Shang-Wei
+    last-name: Lin
+  title: "From Verified Model to Executable Program: The PAT Approach"
+  venue: Innovations in Systems and Software Engineering (ISSE)
+  publish-detail: Vol. 12, No. 1, pp. 1-26
+  year: 2016
+  remark:  
+
+
+- authors:
+  - name: Shang-Wei
+    last-name: Lin
+  - name:  Étienne        
+    last-name: André
+  - name: Yang
+    last-name: Liu
+  - name: Jun      
+    last-name: Sun
+  - name:  Jin Song  
+    last-name: Dong
+  highlight-author:
+    name: Shang-Wei
+    last-name: Lin
+  title: Learning Assumptions for Compositional Verification of Timed Systems
+  venue: IEEE Transactions on Software Engineering (TSE)
+  publish-detail: Vol. 40, No. 2, pp. 137-153
+  year: 2014
+  remark:  
+
+
+- authors:
+  - name: Shang-Wei
+    last-name: Lin
+  - name:  Pao-Ann        
+    last-name: Hsiung
+  highlight-author:
+    name: Shang-Wei
+    last-name: Lin
+  title: Model Checking Prioritized Timed Systems
+  venue: IEEE Transactions on Computers (TC)
+  publish-detail: Vol 61, No. 6, pp. 843-856
+  year: 2012
+  remark:  
+
+
+- authors:
+  - name: Shang-Wei
+    last-name: Lin
+  - name:  Pao-Ann        
+    last-name: Hsiung
+  highlight-author:
+    name: Shang-Wei
+    last-name: Lin
+  title: Counterexample-Guided Assume-Guarantee Synthesis Through Learning
+  venue: IEEE Transactions on Computers (TC)
+  publish-detail: Vol. 60, No. 5, pp. 734-750
+  year: 2011
+  remark:  
+
+
+- authors:
+  - name: Chao-Sheng
+    last-name: Lin
+  - name: Chun-Hsien 
+    last-name: Lu
+  - name:  Yean-Ru
+    last-name: Chen
+  - name: Shang-Wei
+    last-name: Lin
+  - name:  Pao-Ann        
+    last-name: Hsiung
+  highlight-author:
+    name: Shang-Wei
+    last-name: Lin
+  title: "VERTAF/Multi-Core: A SysML-Based Application Framework for Multi-Core Embedded Software Development"
+  venue: Journal of Computer Science and Technology
+  publish-detail: Vol. 26, No. 3, pp. 448-462
+  year: 2011
+  remark:  
+
+
+- authors:
+  - name:  Pao-Ann        
+    last-name: Hsiung
+  - name: Shang-Wei
+    last-name: Lin
+  - name: Chao-Sheng
+    last-name: Lin
+  highlight-author:
+    name: Shang-Wei
+    last-name: Lin
+  title: Real-Time Embedded Software Design for Mobile and Ubiquitous Systems
+  venue: Journal of Signal Processing Systems (JSPS)
+  publish-detail: Vol. 59, pp. 13-32
+  year: 2010
+  remark:
+
+
+
+- authors:
+  - name: Chao-Sheng
+    last-name: Lin
+  - name:  Pao-Ann        
+    last-name: Hsiung
+  - name: Shang-Wei
+    last-name: Lin
+  - name:  Yean-Ru
+    last-name: Chen
+  - name: Chun-Hsien 
+    last-name: Lu
+  - name:  Hseng-Ya
+    last-name: Tung
+  - name:   Wan-Ting          
+    last-name: Su
+  - name: William C. 
+    last-name: Chu
+  - name:   Chih-Hsiong 
+    last-name: Shih
+  - name:  Nien-Lin 
+    last-name: Hsueh
+  - name: Chih-Hung
+    last-name: Chang
+  - name: Chorng-Shiuh  
+    last-name: Koong
+  highlight-author:
+    name: Shang-Wei
+    last-name: Lin
+  title: "VERTAF/Multi-Core: A SysML-based Application Framework for Multi-Core Embedded Software Development"
+  venue: Journal of the Chinese Institute of Engineers
+  publish-detail: Vol. 32, No. 7, pp. 985-991
+  year: 2009
+  remark: 
+
+
+- authors:
+  - name:  Pao-Ann        
+    last-name: Hsiung
+  - name: Shang-Wei
+    last-name: Lin
+  - name:  Yean-Ru
+    last-name: Chen
+  - name: Chun-Hsian 
+    last-name: Huang
+  - name: William C. 
+    last-name: Chu
+  highlight-author:
+    name: Shang-Wei
+    last-name: Lin
+  title: Modeling and Verification of Real-Time Embedded Systems with Urgency
+  venue: Journal of Systems and Software (JSS)
+  publish-detail: Vol. 82, No. 10, pp. 1627-1641
+  year: 2009
+  remark:
+
+
+- authors:
+  - name:  Pao-Ann        
+    last-name: Hsiung
+  - name: Shang-Wei
+    last-name: Lin
+  highlight-author:
+    name: Shang-Wei
+    last-name: Lin
+  title: Automatic Synthesis and Verification of Real-Time Embedded Software for Mobile and Ubiquitous Systems
+  venue: Computer Languages, Systems & Structures
+  publish-detail: Vol. 34, No. 4, pp. 153-169
+  year: 2008
+  remark:
+
+
+
+- authors:
+  - name:  Pao-Ann        
+    last-name: Hsiung
+  - name: Shang-Wei
+    last-name: Lin
+  - name:  Chih-Hao        
+    last-name: Tseng
+  - name: Trong-Yen 
+    last-name: Lee
+  - name:  Jih-Ming         
+    last-name: Fu
+  - name: Win-Bin  
+    last-name: See
+  highlight-author:
+    name: Shang-Wei
+    last-name: Lin
+  title: "VERTAF: An Application Framework for the Design and Verification of Embedded Real-Time Software"
+  venue: IEEE Transactions on Software Engineering (TSE)
+  publish-detail: Vol. 30, No. 10, pp. 656-674
+  year: 2004
+  remark:

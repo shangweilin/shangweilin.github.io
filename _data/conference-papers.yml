@@ -1,0 +1,43 @@
+- authors:
+  - name: 
+    last-name: 
+  - name: 
+    last-name: 
+  - name: 
+    last-name: 
+  - name: 
+    last-name: 
+  - name:
+    last-name: 
+  - name:  
+    last-name: 
+  highlight-author:
+    name: 
+    last-name: 
+  title: 
+  venue: 
+  publish-detail: 
+  year: 
+  remark:
+
+- authors:
+  - name: Shang-Wei  
+    last-name: Lin
+  - name: Tzu-Fan 
+    last-name: Wang
+  - name: Yean-Ru
+    last-name: Chen
+  - name: Zhe
+    last-name: Hou
+  - name:  David 
+    last-name: Sanán
+  - name: Yon Shin 
+    last-name: Teo
+  highlight-author:
+    name: Shang-Wei
+    last-name: Lin
+  title: A Parallel and Distributed Quantum SAT Solver Based on Entanglement and Teleportation
+  venue: International Conference on Tools and Algorithms for the Construction and Analysis of Systems (TACAS)
+  publish-detail: 
+  year: 2024
+  remark: (accepted for publication)
