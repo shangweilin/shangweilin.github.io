@@ -1,0 +1,49 @@
+---
+layout: default
+---
+
+</head>
+<!-- <link href="/assets/css/bootstrap.min.css" rel="stylesheet"> -->
+<link href="/assets/css/bootstrap-iso.css" rel="stylesheet">
+<head>
+
+<div class="bootstrap-iso">
+
+    <nav>
+        <div class="nav nav-tabs" id="nav-home" role="tablist">
+          <button class="nav-link active" id="nav-bio-tab" data-bs-toggle="tab" data-bs-target="#nav-bio" type="button" role="tab" aria-controls="nav-bio" aria-selected="true">Biography</button>
+          <button class="nav-link" id="nav-work-tab" data-bs-toggle="tab" data-bs-target="#nav-work" type="button" role="tab" aria-controls="nav-work" aria-selected="false">Work Experience</button>
+          <button class="nav-link" id="nav-edu-tab" data-bs-toggle="tab" data-bs-target="#nav-edu" type="button" role="tab" aria-controls="nav-edu" aria-selected="false">Education</button>
+        </div>
+    </nav>
+
+    <div class="tab-content" id="nav-tabContent">
+
+        <div class="tab-pane fade show active" id="nav-bio" role="tabpanel" aria-labelledby="nav-bio-tab">
+            <br><br>
+            {% assign thepost = site.posts | where:"title","Shang-Wei LIN's Bio" %}
+            {% for post in thepost %}
+                {{ post.content }}
+            {% endfor %}
+        </div>
+        
+        <div class="tab-pane fade" id="nav-work" role="tabpanel" aria-labelledby="nav-work-tab">
+        <br><br>
+            {% assign thepost = site.posts | where:"title","Shang-Wei LIN's Work Experience" %}
+            {% for post in thepost %}
+                {{ post.content }}
+            {% endfor %}
+        </div>
+        
+        <div class="tab-pane fade" id="nav-edu" role="tabpanel" aria-labelledby="nav-edu-tab">
+            <br><br>
+            {% assign thepost = site.posts | where:"title","Shang-Wei LIN's Education" %}
+            {% for post in thepost %}
+                {{ post.content }}
+            {% endfor %}
+        </div>
+
+    </div>
+
+
+</div>

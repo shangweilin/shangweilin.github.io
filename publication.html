@@ -1,0 +1,36 @@
+---
+layout: default
+---
+
+</head>
+<!-- <link href="/assets/css/bootstrap.min.css" rel="stylesheet"> -->
+<link href="/assets/css/bootstrap-iso.css" rel="stylesheet">
+<head>
+
+<div class="bootstrap-iso">
+
+<nav>
+    <div class="nav nav-tabs" id="nav-tab" role="tablist">
+      <button class="nav-link active" id="nav-journal-tab" data-bs-toggle="tab" data-bs-target="#nav-journal" type="button" role="tab" aria-controls="nav-journal" aria-selected="true">Journal Papers</button>
+      <button class="nav-link" id="nav-conference-tab" data-bs-toggle="tab" data-bs-target="#nav-conference" type="button" role="tab" aria-controls="nav-conference" aria-selected="false">Conference Papers</button>
+    </div>
+</nav>
+
+<div class="tab-content" id="nav-tabContent">
+
+<div class="tab-pane fade show active" id="nav-journal" role="tabpanel" aria-labelledby="nav-journal-tab">
+<br>
+<h5>Journal Papers</h5>
+{% include journals.html %}
+</div>
+
+<div class="tab-pane fade" id="nav-conference" role="tabpanel" aria-labelledby="nav-conference-tab">
+<br>
+<h5>Conference Papers</h5>
+{% include conf-papers.html %}
+</div>
+
+</div>
+
+
+</div>
