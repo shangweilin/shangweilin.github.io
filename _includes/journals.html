@@ -3,7 +3,7 @@
 
 <!-- <link href="/assets/css/bootstrap.min.css" rel="stylesheet"> -->
 
-<ol>
+<ol reversed>
 {% assign sorted = site.data.journal-papers %}
 {% for entry in sorted %}
     {% if entry.authors[0].name != null %}
