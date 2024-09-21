@@ -12,13 +12,60 @@
   - name:  
     last-name: 
   highlight-author:
-    name: 
-    last-name: 
+    name: Shang-Wei
+    last-name: Lin
   title: 
   venue: 
   publish-detail: 
   year: 
+  remark: (accepted for publication)
+
+
+- authors:
+  - name: Wenbing 
+    last-name: Tang
+  - name: Fenghua 
+    last-name: Wu
+  - name: Shang-wei 
+    last-name: Lin
+  - name: Zuohua 
+    last-name: Ding
+  - name: Jing 
+    last-name: Liu
+  - name:  Yang 
+    last-name: Liu
+  - name:  Jifeng 
+    last-name: He
+  highlight-author:
+    name: Shang-Wei
+    last-name: Lin
+  title: "Causal Deconfounding Deep Reinforcement Learning for Mobile Robot Motion Planning"
+  venue: Knowledge-Based Systems
+  publish-detail: Vol. 303, 112406
+  year: 2024
+
+- authors:
+  - name: Fenghua 
+    last-name: Wu
+  - name: Wenbing 
+    last-name: Tang
+  - name: Yuan 
+    last-name: Zhou
+  - name: Shang-Wei 
+    last-name: Lin
+  - name: Zuohua 
+    last-name: Ding
+  - name:  Yang 
+    last-name: Liu
+  highlight-author:
+    name: Shang-Wei
+    last-name: Lin
+  title: Robust Motion Planning for Mobile Robots under Attacks against Obstacle Localization
+  venue: Robotica
+  publish-detail: pp. 1-20
+  year: 2024
   remark:
+
 
 - authors:
   - name: Yanran 
@@ -34,9 +81,9 @@
     last-name: Lin
   title: Is AI Testing Beneficial for The Manufacturer and Social Welfare? Optimal Test Strategy of A Smart Product
   venue: Expert Systems with Applications
-  publish-detail: 
+  publish-detail: Volume 241, 122637
   year: 2024
-  remark: (accepted for publication)
+  remark: 
 
 - authors:
   - name: Yuan 
@@ -58,8 +105,8 @@
     last-name: Lin
   title: Distributed Motion Control for Multiple Mobile Robots Using Discrete-Event Systems and Model Predictive Control
   venue: "IEEE Transactions on Systems, Man, and Cybernetics: Systems (TSMC)"
-  publish-detail: 
-  year: 2023
+  publish-detail: Vol. 54, No. 2, pp. 997-1010
+  year: 2024
   remark: (accepted for publication)
 
 
@@ -75,9 +122,9 @@
     last-name: Lin
   title: SMT Solver with Hardware Acceleration
   venue: IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)
-  publish-detail: 
-  year: 2022
-  remark: (accepted for publication)
+  publish-detail: Vol. 42, No. 6. pp. 2055-2068
+  year: 2023
+  remark: 
 
 - authors:
   - name: Bozhi  
@@ -123,9 +170,9 @@
     last-name: Lin
   title: "Pasadena: Perceptually Aware and Stealthy Adversarial Denoise Attack"
   venue: IEEE Transactions on Multimedia (TMM)
-  publish-detail: 
-  year: 2021
-  remark: (accepted for publication)
+  publish-detail: Vol. 24, pp. 3807-3822
+  year: 2022
+  remark: 
 
 
 - authors:

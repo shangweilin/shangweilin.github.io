@@ -4,7 +4,8 @@
 <!-- <link href="/assets/css/bootstrap.min.css" rel="stylesheet"> -->
 
 <ol>
-{% for entry in site.data.journal-papers | sort: "year" %}
+{% assign sorted = site.data.journal-papers %}
+{% for entry in sorted %}
     {% if entry.authors[0].name != null %}
         <li style="font-size: 0.9em">
         {% for author in entry.authors %}

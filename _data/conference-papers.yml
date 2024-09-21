@@ -12,13 +12,97 @@
   - name:  
     last-name: 
   highlight-author:
-    name: 
-    last-name: 
+    name: Shang-Wei
+    last-name: Lin
   title: 
   venue: 
   publish-detail: 
   year: 
+  remark: (accepted for publication)
+
+
+- authors:
+  - name: Zhiming 
+    last-name: Li
+  - name: Yushi 
+    last-name: Cao
+  - name: Yan 
+    last-name: Zheng
+  - name: Xu 
+    last-name: Liu
+  - name: Bozhi 
+    last-name: Wu
+  - name:  Tianlin 
+    last-name: Li
+  - name:  Xiufeng 
+    last-name: Xu
+  - name:  Junzhe 
+    last-name: Jiang
+  - name:  Yon Shin 
+    last-name: Teo
+  - name:  Shang-Wei 
+    last-name: Lin
+  - name:   Yang 
+    last-name: Liu
+  highlight-author:
+    name: Shang-Wei
+    last-name: Lin
+  title: "Improving Neural Logic Machines via Failure Reflection"
+  venue: International Conference on Machine Learning (ICML)
+  publish-detail: Vol. 235, pp. 27457--27473
+  year: 2024
+  remark: (accepted for publication)
+
+
+- authors:
+  - name: Yupeng 
+    last-name: Cheng
+  - name: Zi Pong 
+    last-name: Lim
+  - name: Sarthak Ketanbhai 
+    last-name: Modi
+  - name: Yon Shin 
+    last-name: Teo
+  - name: Yushi 
+    last-name: Cao
+  - name:  Shang-Wei 
+    last-name: Lin
+  highlight-author:
+    name: Shang-Wei
+    last-name: Lin
+  title: "Towards a More Robust and Accurate OCR Model with Adversarial Techniques in HMI Testing Scenarios"
+  venue: IEEE Conference on Artificial Intelligence (CAI)
+  publish-detail: pp. 1414-1421
+  year: 2024
   remark:
+
+
+- authors:
+  - name: Zhiming 
+    last-name: Li
+  - name: Yushi 
+    last-name: Cao
+  - name: Xiufeng 
+    last-name: Xu
+  - name: Junzhe 
+    last-name: Jiang
+  - name: Xu 
+    last-name: Liu
+  - name:  Yon Shin 
+    last-name: Teo
+  - name: Shang-wei 
+    last-name: Lin
+  - name:  Yang 
+    last-name: Liu
+  highlight-author:
+    name: Shang-Wei
+    last-name: Lin
+  title: "LLMs for Relational Reasoning: How Far are We?"
+  venue: International Workshop on Large Language Models for Code (LLM4Code)
+  publish-detail: pp. 119 - 126
+  year: 2024
+  remark:
+
 
 - authors:
   - name: Shang-Wei  
@@ -41,3 +125,1180 @@
   publish-detail: 
   year: 2024
   remark: (accepted for publication)
+
+
+- authors: 
+  - name: Bozhi
+    last-name: Wu
+  - name: Shangqing 
+    last-name: Liu
+  - name: Yang 
+    last-name: Xiao
+  - name: Zhiming 
+    last-name: Li
+  - name: Jun 
+    last-name: Sun
+  - name: Shang-Wei 
+    last-name: Lin
+  highlight-author: 
+    name: Shang-Wei 
+    last-name: Lin
+  title: Learning Program Semantics for Vulnerability Detection via Vulnerability-specific Inter-procedural Slicing
+  venue: ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE)
+  publish-detail: 
+  year: 2023
+  remark: (accepted for publication)
+
+
+- authors:
+  - name: Yushi 
+    last-name: Cao
+  - name:  Yanran 
+    last-name: Li
+  - name:  Yon Shin 
+    last-name: Teo
+  - name:  Yan 
+    last-name: Zheng
+  - name:  Zhexin 
+    last-name: Liang
+  - name: Shang-Wei 
+    last-name: 
+  highlight-author: 
+    name: Shang-Wei
+    last-name: Lin
+  title: An Automatic Test Plan Generation Approach for Automotive Software Testing
+  venue: International Conference on Intelligent Software Methodologies, Tools, and Techniques (SOMET)
+  publish-detail: 
+  year: 2023
+  remark: (accepted for publication)
+
+
+- authors:
+  - name: Shang-Wei 
+    last-name: Lin
+  - name: Palina  
+    last-name: Tolmach
+  - name: Ye 
+    last-name: Liu
+  - name: Yi 
+    last-name: Li
+  highlight-author:
+    name: Shang-Wei
+    last-name: Lin
+  title: "SolSEE: A Source-Level Symbolic Execution Engine for Solidity"
+  venue: ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE)
+  publish-detail: 
+  year: 2022
+  remark:
+
+
+- authors:
+  - name: Yushi 
+    last-name: Cao
+  - name: Yon Shin 
+    last-name: Teo
+  - name:  Yan 
+    last-name: Zheng
+  - name:  Yuxuan 
+    last-name: Toh
+  - name: Shang-Wei
+    last-name: Lin
+  highlight-author:
+    name: Shang-Wei
+    last-name: Lin
+  title: A Holistic Automated Software Structure Exploration Framework for Testing
+  venue: International Conference on Intelligent Software Methodologies, Tools, and Techniques (SOMET)
+  publish-detail: 
+  year: 2022
+  remark: (accepted for publication)
+
+
+- authors:
+  - name: Palina 
+    last-name: Tolmach
+  - name:  Yi 
+    last-name: Li
+  - name: Shang-Wei 
+    last-name: Lin
+  highlight-author:
+    name: Shang-Wei
+    last-name: Lin
+  title: Property-Based Automated Repair of DeFi Protocols
+  venue: IEEE/ACM International Conference on Automated Software Engineering (ASE)
+  publish-detail: 
+  year: 2022
+  remark: (accepted for publication)
+
+
+- authors:
+  - name: Ye 
+    last-name: Liu
+  - name:  Yi 
+    last-name: Li
+  - name:  Shang-Wei 
+    last-name: Lin
+  - name: Cyrille 
+    last-name: Artho
+  highlight-author:
+    name: Shang-Wei
+    last-name: Lin
+  title: Finding Permission Bugs in Smart Contracts with Role Mining
+  venue: ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA)
+  publish-detail: pp. 716 - 727
+  year: 2022
+  remark: (ACM SIGSOFT Distinguished Paper Award)
+
+
+- authors:
+  - name: Xuan Bach 
+    last-name: Le
+  - name:  Shang-Wei 
+    last-name: Lin
+  - name: Jun 
+    last-name: Sun
+  - name: David 
+    last-name: Sanán
+  highlight-author:
+    name: Shang-Wei
+    last-name: Lin
+  title: A Quantum Interpretation of Separating Conjunction for Local Reasoning of Quantum Programs Based on Separation Logic
+  venue: ACM SIGPLAN Symposium on Principles of Programming Languages (POPL)
+  publish-detail:  Vol. 6, pp. 1-27
+  year: 2022
+  remark:
+
+
+- authors:
+  - name: Yushi 
+    last-name: Cao
+  - name:  Yan 
+    last-name: Zheng
+  - name: Shang-Wei 
+    last-name: Lin
+  - name: Yang 
+    last-name: Liu
+  - name: Yon Shin 
+    last-name: Teo
+  - name: Yuxuan 
+    last-name: Toh
+  - name: Vinay Vishnumurthy 
+    last-name: Adiga
+  highlight-author:
+    name: Shang-Wei
+    last-name: Lin
+  title: Automatic HMI Structure Exploration Via Curiosity-Based Reinforcement Learning
+  venue: IEEE/ACM International Conference on Automated Software Engineering (ASE)
+  publish-detail: pp. 1151-1155
+  year: 2021
+  remark:
+
+
+- authors:
+  - name: Palina 
+    last-name: Tolmach
+  - name:  Yi
+    last-name: Li
+  - name:  Shang-Wei 
+    last-name: Lin
+  - name: Yang 
+    last-name: Liu
+  highlight-author:
+    name: Shang-Wei
+    last-name: Lin
+  title: Formal Analysis of Composable DeFi Protocols
+  venue: Workshop on Decentralized Finance (DeFi)
+  publish-detail: pp. 149-161
+  year: 2021
+  remark:
+
+- authors:
+  - name: Si-Han 
+    last-name: Chen
+  - name:  Yu-Ting
+    last-name:  Huang
+  - name: Yi-Chun 
+    last-name: Kao
+  - name:  Yean-Ru 
+    last-name: Chen
+  - name: Shang-Wei 
+    last-name: Lin
+  - name: Chia-I 
+    last-name: Chen
+  highlight-author:
+    name: Shang-Wei
+    last-name: Lin
+  title: Hardware Trojan Design and Detection with Formal Verification to Deep Neural Network
+  venue: The Design and Verification Conference (DVCon)
+  publish-detail: 
+  year: 2021
+  remark: (accepted for publication)
+
+
+- authors:
+  - name: Yupeng 
+    last-name: Cheng
+  - name:  Xingxing 
+    last-name: Wei
+  - name:  Huazhu 
+    last-name: Fu
+  - name:  Shang-Wei 
+    last-name: Lin
+  - name: Weisi 
+    last-name: Lin
+  highlight-author:
+    name: Shang-Wei
+    last-name: Lin
+  title: Defense for Adversarial Videos by Self-adaptive JPEG Compression and Optical Texture
+  venue: ACM International Conference on Multimedia in Asia (ACMMM-Asia)
+  publish-detail: 
+  year: 2020
+  remark: (accepted for publication)
+
+
+- authors:
+  - name: Xuan-Bach 
+    last-name: Le
+  - name:  David 
+    last-name: Sanán
+  - name:  Jun 
+    last-name: Sun
+  - name: Shang-Wei 
+    last-name: Lin
+  highlight-author:
+    name: Shang-Wei
+    last-name: Lin
+  title: Automatic Verification of Multi-threaded Programs by Inference of Rely-Guarantee Specifications
+  venue: International Conference on Engineering of Complex Computer Systems (ICECCS)
+  publish-detail: 
+  year: 2020
+  remark: (accepted for publication)
+
+
+- authors:
+  - name: Ruitao 
+    last-name: Feng
+  - name: Jing Qiang 
+    last-name: Lim
+  - name:  Sen 
+    last-name: Chen
+  - name: Shang-Wei 
+    last-name: Lin
+  - name: Yang 
+    last-name: Liu
+  highlight-author:
+    name: Shang-Wei
+    last-name: Lin
+  title: "SeqMobile: An Efficient Sequence-Based Malware Detection System Using RNN on Mobile Devices"
+  venue: International Conference on Engineering of Complex Computer Systems (ICECCS)
+  publish-detail: 
+  year: 2020
+  remark: (accepted for publication)
+
+
+- authors:
+  - name: Ye 
+    last-name: Liu
+  - name: Yi 
+    last-name: Li
+  - name:  Shang-Wei 
+    last-name: Lin
+  - name:  Qiang 
+    last-name: Yan
+  highlight-author:
+    name: Shang-Wei
+    last-name: Lin
+  title: "ModCon: A Model-Based Testing Platform for Smart Contracts"
+  venue: ACM SIGSOFT Symposium on the Foundations of Software Engineering (FSE)
+  publish-detail: 
+  year: 2020
+  remark: (accepted for publication)
+
+
+- authors:
+  - name: Ye 
+    last-name: Liu
+  - name: Yi 
+    last-name: Li
+  - name: Shang-Wei 
+    last-name: Lin
+  - name: Rong 
+    last-name: Zhao
+  highlight-author:
+    name: Shang-Wei
+    last-name: Lin
+  title: Towards Automated Verification of Smart Contract Fairness
+  venue: ACM SIGSOFT Symposium on the Foundations of Software Engineering (FSE)
+  publish-detail: 
+  year: 2020
+  remark: (accepted for publication)
+
+
+- authors:
+  - name: Jiao 
+    last-name: Jiao
+  - name:  Shuanglong 
+    last-name: Kan
+  - name:  Shang-Wei 
+    last-name: Lin
+  - name:  David 
+    last-name: Sanán
+  - name: Yang 
+    last-name: Liu
+  - name: Jun 
+    last-name: Sun
+  highlight-author:
+    name: Shang-Wei
+    last-name: Lin
+  title: "Semantic Understanding of Smart Contracts: Executable Operational Semantics of Solidity"
+  venue: IEEE Symposium on Security and Privacy (S&P)
+  publish-detail: pp. 1695-1712
+  year: 2020
+  remark: "doi: 10.1109/SP40000.2020.00066"
+
+
+- authors:
+  - name: Jiao 
+    last-name: Jiao
+  - name:  Shang-Wei
+    last-name: Lin
+  - name: Jun 
+    last-name: Sun
+  highlight-author:
+    name: Shang-Wei
+    last-name: Lin
+  title: A Generalized Formal Semantic Framework for Smart Contracts
+  venue: International Conference on Fundamental Approaches to Software Engineering (FASE)
+  publish-detail: pp. 74-96
+  year: 2020
+  remark:
+
+
+- authors:
+  - name: Ruitao 
+    last-name: Feng
+  - name:  Yang 
+    last-name: Liu
+  - name: Shang-Wei 
+    last-name: Lin
+  highlight-author:
+    name: Shang-Wei
+    last-name: Lin
+  title: A Performance-Sensitive Malware Detection System on Mobile Platform
+  venue: International Conference on Formal Engineering Methods (ICFEM)
+  publish-detail: pp. 493-497
+  year: 2019
+  remark:
+
+
+- authors:
+  - name: Ruitao 
+    last-name: Feng
+  - name:  Sen 
+    last-name: Chen
+  - name:  Xiaofei 
+    last-name: Xie
+  - name:  Lei 
+    last-name: Ma
+  - name: Guozhu 
+    last-name: Meng
+  - name:  Yang 
+    last-name: Liu
+  - name: Shang-Wei
+    last-name: Lin
+  highlight-author:
+    name: Shang-Wei
+    last-name: Lin
+  title: "MobiDroid: A Performance-Sensitive Malware Detection System on Mobile Platform"
+  venue: International Conference on Engineering of Complex Computer Systems (ICECCS)
+  publish-detail: pp. 61-70
+  year: 2019
+  remark:
+
+
+- authors:
+  - name: Haijun 
+    last-name: Wang
+  - name:  Xiaofei 
+    last-name: Xie
+  - name:  Shang-Wei 
+    last-name: Lin
+  - name:  Yun 
+    last-name: Lin
+  - name: Yuekang 
+    last-name: Li
+  - name:  Shengchao 
+    last-name: Qin
+  - name: Yang 
+    last-name: Liu
+  - name:   Ting 
+    last-name: Liu
+  highlight-author:
+    name: Shang-Wei
+    last-name: Lin
+  title: Locating Vulnerabilities in Binaries via Memory Layout Recovering
+  venue: ACM SIGSOFT Symposium on the Foundations of Software Engineering (FSE)
+  publish-detail: pp. 718-728
+  year: 2019
+  remark:
+
+
+- authors:
+  - name: Ruitao 
+    last-name: Feng
+  - name: Guozhu
+    last-name: Meng
+  - name:  Xiaofei 
+    last-name: Xie
+  - name:  Ting 
+    last-name: Su
+  - name: Yang 
+    last-name: Liu
+  - name: Shang-Wei 
+    last-name: Lin
+  highlight-author:
+    name: Shang-Wei
+    last-name: Lin
+  title: Learning Performance Optimization from Code Changes for Android Apps
+  venue: IEEE International Workshop on Machine Learning and Software Testing (MLST)
+  publish-detail: pp. 285-290
+  year: 2019
+  remark:
+
+
+- authors:
+  - name: Haijun 
+    last-name: Wang
+  - name:  Yi 
+    last-name: Li
+  - name:  Shang-Wei 
+    last-name: Lin
+  - name:  Lei 
+    last-name: Ma 
+  - name: Yang 
+    last-name: Liu
+  highlight-author:
+    name: Shang-Wei
+    last-name: Lin
+  title: "VULTRON: Catching Vulnerable Smart Contracts Once and for All"
+  venue: New Ideas and Emerging Results (NIER), International Conference on Software Engineering (ICSE)
+  publish-detail: pp. 1-4
+  year: 2019
+  remark:
+
+
+- authors:
+  - name: Sa 
+    last-name: Gao
+  - name:  Chunyang 
+    last-name: Chen
+  - name:  Zhenchang 
+    last-name: Xing
+  - name:  Yukun 
+    last-name: Ma
+  - name: Wen 
+    last-name: Song
+  - name: Shang-Wei 
+    last-name: Lin
+  highlight-author:
+    name: Shang-Wei
+    last-name: Lin
+  title: A Neural Model for Method Name Generation from Functional Description
+  venue: IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER)
+  publish-detail: pp. 414-421
+  year: 2019
+  remark:
+
+
+- authors:
+  - name: Fuyuan 
+    last-name: Zhang
+  - name:  Yongwang 
+    last-name: Zhao
+  - name:  David 
+    last-name: Sanán
+  - name:  Yang 
+    last-name: Liu
+  - name: Alwen 
+    last-name: Tiu
+  - name:   Shang-Wei 
+    last-name: Lin
+  - name:  Jun 
+    last-name: Sun
+  highlight-author:
+    name: Shang-Wei
+    last-name: Lin
+  title: Compositional Reasoning for Shared-variable Concurrent Programs
+  venue: International Symposium on Formal Methods (FM)
+  publish-detail: pp. 523-541
+  year: 2018
+  remark:
+
+
+- authors:
+  - name: Ki Yung 
+    last-name: Ahn
+  - name:  Ross 
+    last-name: Horne
+  - name:  Shang-Wei 
+    last-name: Lin 
+  - name: Alwen 
+    last-name: Tiu
+  highlight-author:
+    name: Shang-Wei
+    last-name: Lin
+  title: Quasi-Open Bisimilarity with Mismatch is Intuitionistic
+  venue: Annual ACM/IEEE Symposium on Logic in Computer Science (LICS)
+  publish-detail: pp. 26-35
+  year: 2018
+  remark:
+
+
+- authors:
+  - name: Sa 
+    last-name: Gao
+  - name:  Zhenchang 
+    last-name: Xing
+  - name:  Yukun 
+    last-name: Ma
+  - name:  Deheng 
+    last-name: Ye
+  - name: Shang-Wei 
+    last-name: Lin
+  highlight-author:
+    name: Shang-Wei
+    last-name: Lin
+  title: Enhancing Knowledge Sharing in Stack Overflow via Automatic External Web Resources Linking
+  venue: International Conference on Engineering of Complex Computer Systems (ICECCS)
+  publish-detail: pp. 90-99
+  year: 2017
+  remark: 
+
+
+- authors:
+  - name: Shang-Wei 
+    last-name: Lin
+  - name:  Jun 
+    last-name: Sun
+  - name:  Hao 
+    last-name: Xiao
+  - name:  Yang 
+    last-name: Liu
+  - name: David 
+    last-name: Sanán
+  - name:  Henri 
+    last-name: Hansen
+  highlight-author:
+    name: Shang-Wei
+    last-name: Lin
+  title: "FiB: Squeezing Loop Invariants by Interpolation between Forward/Backward Predicate Transformers"
+  venue: IEEE/ACM International Conference on Automated Software Engineering (ASE)
+  publish-detail: pp. 793-803
+  year: 2017
+  remark: (ACM SIGSOFT Distinguished Paper Award)
+
+
+- authors:
+  - name: Jiaying 
+    last-name: Li
+  - name:  Jun 
+    last-name: Sun
+  - name:  Li 
+    last-name: Li
+  - name:  Quang Loc 
+    last-name: Le
+  - name: Shang-Wei 
+    last-name: Lin
+  highlight-author:
+    name: Shang-Wei
+    last-name: Lin
+  title: Automatic Loop-invariant Generation and Refinement through Selective Sampling
+  venue: IEEE/ACM International Conference on Automated Software Engineering (ASE)
+  publish-detail: pp. 782-792
+  year: 2017
+  remark:
+
+
+- authors:
+  - name: Yuekang 
+    last-name: Li
+  - name:  Bihuan 
+    last-name: Chen
+  - name: Mahinthan 
+    last-name: Chandramohan
+  - name:  Shang-Wei 
+    last-name: Lin
+  - name: Yang 
+    last-name: Liu
+  - name: Alwen 
+    last-name: Tiu
+  highlight-author:
+    name: Shang-Wei
+    last-name: Lin
+  title: "Steelix: Program-State Based Binary Fuzzing"
+  venue: ACM SIGSOFT Symposium on the Foundations of Software Engineering (FSE)
+  publish-detail: pp. 627-637
+  year: 2017
+  remark:
+
+
+- authors:
+  - name: Xiaofei 
+    last-name: Xie
+  - name:  Bihuan 
+    last-name: Chen
+  - name:  Liang 
+    last-name: Zou
+  - name:  Shang-Wei
+    last-name:  Lin
+  - name: Yang 
+    last-name: Liu
+  - name: Xiaohong 
+    last-name: Li
+  highlight-author:
+    name: Shang-Wei
+    last-name: Lin
+  title: "Loopster: Static Loop Termination Analysis"
+  venue: ACM SIGSOFT Symposium on the Foundations of Software Engineering (FSE)
+  publish-detail: pp. 84-94
+  year: 2017
+  remark:
+
+ 
+- authors:
+  - name: Étienne 
+    last-name: André 
+  - name: Shang-Wei 
+    last-name: Lin
+  highlight-author:
+    name: Shang-Wei
+    last-name: Lin
+  title: Learning-Based Compositional Parameter Synthesis for Event-Recording Automata
+  venue: International Conference on Formal Techniques for Distributed Objects, Components, and Systems (FORTE)
+  publish-detail: LNCS Vol. 10321, pp. 17-32
+  year: 2017
+  remark: (Best Paper Award)
+
+
+- authors:
+  - name: Muhammad Ashad 
+    last-name: Kabir
+  - name:  Zhenchang 
+    last-name: Xing
+  - name:  Prakash 
+    last-name: Chandrasekaran
+  - name: Shang-Wei 
+    last-name: Lin
+  highlight-author:
+    name: Shang-Wei
+    last-name: Lin
+  title: "Process Pattern: Reusable Design Artifact for Business Process Models"
+  venue: IEEE Computer Society Signature Conference on Computers, Software and Applications (COMPSAC)
+  publish-detail: Vol. 1, pp. 714-721
+  year: 2017
+  remark:
+
+
+- authors:
+  - name: Xuejiao 
+    last-name: Zhao
+  - name:  Zhenchang 
+    last-name: Xing
+  - name:  Muhammad Ashad 
+    last-name: Kabir
+  - name:  Naoya 
+    last-name: Sawada
+  - name: Jing 
+    last-name: Li
+  - name: Shang-Wei 
+    last-name: Lin
+  highlight-author:
+    name: Shang-Wei
+    last-name: Lin
+  title: "HDSKG: Harvesting Domain Specific Knowledge Graph from Content of Webpages"
+  venue: IEEE International Conference on Software Analysis, Evolution, and Reengineering (SANER)
+  publish-detail: pp. 56-67
+  year: 2017
+  remark:
+
+
+- authors:
+  - name: Muhammad Ashad 
+    last-name: Kabir
+  - name:  Jun 
+    last-name: Han
+  - name:  Alan W. 
+    last-name: Colman
+  - name:  Naif R. 
+    last-name: Aljohani
+  - name:  Mohammed 
+    last-name: Basheri
+  - name:   Zhenchang 
+    last-name: Xing
+  - name: Shang-Wei 
+    last-name: Lin
+  highlight-author:
+    name: Shang-Wei
+    last-name: Lin
+  title: Engineering Socially-Aware Systems and Applications
+  venue: International Conference on Engineering of Complex Computer Systems (ICECCS)
+  publish-detail: pp. 81-90
+  year: 2016
+  remark:
+
+
+- authors:
+  - name: Shang-Wei 
+    last-name: Lin
+  - name:  Jun 
+    last-name: Sun
+  - name:  Truong Khanh 
+    last-name: Nguyen
+  - name:  Yang 
+    last-name: Liu
+  - name: Jin Song 
+    last-name: Dong
+  highlight-author:
+    name: Shang-Wei
+    last-name: Lin
+  title: Interpolation Guided Compositional Verification (T)
+  venue: IEEE/ACM International Conference on Automated Software Engineering (ASE)
+  publish-detail: pp. 65-74
+  year: 2015
+  remark:
+
+
+- authors:
+  - name: Jun 
+    last-name: Sun
+  - name:  Hao 
+    last-name: Xiao
+  - name:  Yang 
+    last-name: Liu
+  - name:  Shang-Wei 
+    last-name: Lin
+  - name: Shengchao 
+    last-name: Qin
+  highlight-author:
+    name: Shang-Wei
+    last-name: Lin
+  title: "TLV: Abstraction through Testing, Learning, and Validation"
+  venue: ACM SIGSOFT Symposium on the Foundations of Software Engineering (FSE)
+  publish-detail: pp. 698-709
+  year: 2015
+  remark: (accepted for publication)
+
+
+- authors:
+  - name: Henri 
+    last-name: Hansen
+  - name:  Shang-Wei 
+    last-name: Lin
+  - name: Yang 
+    last-name: Liu
+  - name: Truong Khanh 
+    last-name: Nguyen
+  - name: Jun 
+    last-name: Sun
+  highlight-author:
+    name: Shang-Wei
+    last-name: Lin
+  title: "Diamonds are a Girl's Best Friend: Partial Order Reduction for Timed Automata With Abstractions"
+  venue: International Conference on Computer Aided Verification (CAV)
+  publish-detail: LNCS Vol. 8559, pp. 391-406
+  year: 2014
+  remark:
+
+
+- authors:
+  - name: Shang-Wei 
+    last-name: Lin
+  - name: Pao-Ann 
+    last-name: Hsiung 
+  highlight-author:
+    name: Shang-Wei
+    last-name: Lin
+  title: Compositional Synthesis of Concurrent Systems through Causal Model Checking and Learning
+  venue: International Symposium on Formal Methods (FM)
+  publish-detail: LNCS Vol. 8442, pp. 416-431
+  year: 2014
+  remark:
+
+
+- authors:
+  - name: Hao 
+    last-name: Xiao
+  - name:  Jun
+    last-name:  Sun
+  - name: Yang 
+    last-name: Liu
+  - name: Shang-Wei 
+    last-name: Lin
+  - name: Chengnian
+    last-name: Sun
+  highlight-author:
+    name: Shang-Wei
+    last-name: Lin
+  title: "TzuYu: Learning Stateful Typestates"
+  venue: IEEE/ACM International Conference on Automated Software Engineering (ASE)
+  publish-detail: pp. 432-442
+  year: 2013
+  remark:
+
+
+- authors:
+  - name: Kun 
+    last-name: Ji
+  - name:  Yang 
+    last-name: Liu
+  - name: Shang-Wei 
+    last-name: Lin
+  - name: Jun 
+    last-name: Sun
+  - name: Jin Song 
+    last-name: Dong
+  - name:  Truong Khanh 
+    last-name: Nguyen
+  highlight-author:
+    name: Shang-Wei
+    last-name: Lin
+  title: "CELL: A Compositional Verification Framework"
+  venue: International Symposium on Automated Technology for Verification and Analysis (ATVA)
+  publish-detail: LNCS Vol. 8172, pp. 474-477
+  year: 2013
+  remark:
+
+
+- authors:
+  - name: Étienne 
+    last-name: André
+  - name:  Yang 
+    last-name: Liu
+  - name: Jun 
+    last-name: Sun
+  - name: Jin Song 
+    last-name: Dong
+  - name: Shang-Wei 
+    last-name: Lin
+  highlight-author:
+    name: Shang-Wei
+    last-name: Lin
+  title: "PSyHCoS: Parameter Synthesis for Hierarchical Concurrent Real-Time Systems"
+  venue: International Conference on Computer Aided Verification (CAV)
+  publish-detail: LNCS Vol. 8044, pp. 984-989
+  year: 2013
+  remark: (accepted for publication)
+
+
+- authors:
+  - name: Huiquan 
+    last-name: Zhu
+  - name: Jin Song 
+    last-name: Dong
+  - name: Bimlesh 
+    last-name: Wadhwa
+  - name: Shang-Wei 
+    last-name: Lin 
+  highlight-author:
+    name: Shang-Wei
+    last-name: Lin
+  title: Generating C# Programs from CSP# Models
+  venue: IEEE International Conference on Software Testing, Verification and Validation (ICSTW)
+  publish-detail: pp. 21-26
+  year: 2013
+  remark:
+
+
+- authors:
+  - name: Shang-Wei 
+    last-name: Lin
+  - name:  Yang 
+    last-name: Liu
+  - name: Pao-Ann 
+    last-name: Hsiung
+  - name: Jun 
+    last-name: Sun
+  - name: Jin Song 
+    last-name: Dong
+  highlight-author:
+    name: Shang-Wei
+    last-name: Lin
+  title: Automatic Generation of Provably Correct Embedded Systems
+  venue: International Conference on Formal Engineering Methods (ICFEM)
+  publish-detail:  LNCS Vol. 7635, pp. 214-229
+  year: 2012
+  remark:
+
+
+- authors:
+  - name: Shang-Wei 
+    last-name: Lin
+  - name: Yang 
+    last-name: Liu
+  - name: Jun 
+    last-name: Sun
+  - name: Jin Song 
+    last-name: Dong
+  - name: Étienne 
+    last-name: André
+  highlight-author:
+    name: Shang-Wei
+    last-name: Lin
+  title: Automatic Compositional Verification of Timed Systems
+  venue: International Symposium on Formal Methods (FM)
+  publish-detail: LNCS Vol. 7436, pp. 272-276
+  year: 2012
+  remark:
+
+
+- authors:
+  - name: Shang-Wei 
+    last-name: Lin
+  - name: Étienne 
+    last-name: André
+  - name: Jin Song 
+    last-name: Dong
+  - name: Jun 
+    last-name: Sun
+  - name: Yang 
+    last-name: Liu
+  highlight-author:
+    name: Shang-Wei
+    last-name: Lin
+  title: An Efficient Algorithm for Learning Event-Recording Automata
+  venue: International Symposium on Automated Technology for Verification and Analysis (ATVA)
+  publish-detail: LNCS Vol. 6996, pp. 463-472
+  year: 2011
+  remark:
+
+
+- authors:
+  - name: Yean-Ru 
+    last-name: Chen
+  - name: Jui-Lung 
+    last-name: Yao
+  - name: Chih-Hseng 
+    last-name: Lin
+  - name: Shang-Wei 
+    last-name: Lin
+  - name: Chun-Hsian 
+    last-name: Huang
+  - name:  Ya-Ping 
+    last-name: Hu
+  - name: Pao-Ann 
+    last-name: Hsiung
+  - name:  Sao-Jie 
+    last-name: Chen
+  - name: I-Hsin 
+    last-name: Chou
+  highlight-author:
+    name: Shang-Wei
+    last-name: Lin
+  title: SAT-based Verification of Data-Independent Access Control Security Systems
+  venue: International Conference on Security and Management (SAM)
+  publish-detail: Vol. 1, pp. 126-131
+  year: 2011
+  remark:
+
+
+- authors:
+  - name: Pao-Ann 
+    last-name: Hsiung
+  - name: Chao-Sheng 
+    last-name: Lin
+  - name: Shang-Wei 
+    last-name: Lin
+  - name: Yean-Ru 
+    last-name: Chen
+  - name: Chun-Hsien 
+    last-name: Lu
+  - name:  Sheng-Ya 
+    last-name: Tong
+  - name: Wan-Ting
+    last-name:  Su
+  - name:  Chih-Hsiong 
+    last-name: Shih
+  - name:  Chorng-Shiuh 
+    last-name: Koong
+  - name:  Nien-Lin 
+    last-name: Hsueh
+  - name:  Chih-Hong 
+    last-name: Chang
+  - name:  William C. 
+    last-name: Chu
+  highlight-author:
+    name: Shang-Wei
+    last-name: Lin
+  title: "VERTAF/Multi-Core: A SysML-based Application Framework for Multi-Core Embedded Software Development"
+  venue: International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP)
+  publish-detail: LNCS Vol. 5574, pp. 303-314
+  year: 2009
+  remark:
+
+
+- authors:
+  - name: Pao-Ann 
+    last-name: Hsiung
+  - name: Shang-Wei 
+    last-name: Lin
+  - name: Yean-Ru 
+    last-name: Chen
+  - name: Nien-Lin 
+    last-name: Hsueh
+  - name: Chih-Hong 
+    last-name: Chang
+  - name:  Chih-Hsiong 
+    last-name: Shih
+  - name:  Chorng-Shiuh 
+    last-name: Koong
+  - name:  Chao-Sheng 
+    last-name: Lin
+  - name:  Chun-Hsien 
+    last-name: Lu
+  - name:  Sheng-Ya 
+    last-name: Tong
+  - name:  Wan-Ting 
+    last-name: Su
+  - name:  William C.
+    last-name:  Chu
+  highlight-author:
+    name: Shang-Wei
+    last-name: Lin
+  title: Model-Driven Development of Multi-Core Embedded Software
+  venue: International Workshop on Multicore Software Engineering (IWMSE)
+  publish-detail: pp. 9-16
+  year: 2009
+  remark:
+
+
+- authors:
+  - name: Pao-Ann 
+    last-name: Hsiung
+  - name: Shang-Wei 
+    last-name: Lin
+  highlight-author:
+    name: Shang-Wei
+    last-name: Lin
+  title: From ISA to Application Design via RTOS - A Course Design Framework for Embedded Software
+  venue: Asia-Pacific Workshop on Embedded System Education and Research (APESER)
+  publish-detail: pp. 1-6
+  year: 2007
+  remark:
+
+
+- authors:
+  - name: Pao-Ann 
+    last-name: Hsiung
+  - name: Shang-Wei 
+    last-name: Lin
+  - name: Chin-Chieh 
+    last-name: Hung
+  - name: Jih-Ming 
+    last-name: Fu
+  - name: Chao-Sheng 
+    last-name: Lin
+  - name:  Cheng-Chi
+    last-name:  Chiang
+  - name:  Kuo-Cheng 
+    last-name: Chiang
+  - name:  Chun-Hsien 
+    last-name: Lu
+  - name:  Pin-Hsien 
+    last-name: Lu
+  highlight-author:
+    name: Shang-Wei
+    last-name: Lin
+  title: Real-Time Embedded Software Design for Mobile and Ubiquitous Systems
+  venue: The IFIP International Conference on Embedded and Ubiquitous Computing (EUC)
+  publish-detail: LNCS Vol. 4808, pp. 718-729
+  year: 2007
+  remark:
+
+
+- authors:
+  - name: Pao-Ann 
+    last-name: Hsiung
+  - name: Shang-Wei 
+    last-name: Lin
+  - name: Yean-Ru 
+    last-name: Chen
+  - name: Chun-Hsian 
+    last-name: Huang
+  - name: Jia-Chen 
+    last-name: Yeh
+  - name:  Hong-Yu 
+    last-name: Sun
+  - name: Chao-Sheng 
+    last-name: Lin
+  - name: Hsiao-Win 
+    last-name: Liao
+  highlight-author:
+    name: Shang-Wei
+    last-name: Lin
+  title: Model Checking Timed Systems with Urgencies
+  venue: International Symposium on Automated Technology for Verification and Analysis (ATVA)
+  publish-detail: LNCS Vol. 4218, pp. 67-81
+  year: 2006
+  remark:
+
+
+- authors:
+  - name: Shang-Wei 
+    last-name: Lin
+  - name: Pao-Ann 
+    last-name: Hsiung
+  - name: Chun-Hsian 
+    last-name: Huang
+  - name: Yean-Ru 
+    last-name: Chen
+  highlight-author:
+    name: Shang-Wei
+    last-name: Lin
+  title: Model Checking Prioritized Timed Automata
+  venue: International Symposium on Automated Technology for Verification and Analysis (ATVA)
+  publish-detail: LNCS Vol. 3707, pp. 370-384
+  year: 2005
+  remark:
+
+
+- authors:
+  - name: Pao-Ann 
+    last-name: Hsiung
+  - name: Shang-Wei 
+    last-name: Lin
+  highlight-author:
+    name: Shang-Wei
+    last-name: Lin
+  title: Model Checking Timed Systems with Priorities
+  venue: International Conference on Real-Time and Embedded Computing Systems and Applications (RTCSA)
+  publish-detail: pp. 539-544
+  year: 2005
+  remark:
+
+
+- authors:
+  - name: Pao-Ann 
+    last-name: Hsiung
+  - name:  Shang-Wei 
+    last-name: Lin
+  highlight-author:
+    name: Shang-Wei
+    last-name: Lin
+  title: Formal Design and Verification of Real-Time Embedded Software
+  venue: Asian Symposium on Programming Languages and Systems (APLAS)
+  publish-detail: LNCS Vol. 3302, pp. 382-397
+  year: 2004
+  remark:
+
+- authors:
+  - name: Pao-Ann 
+    last-name: Hsiung
+  - name: Shang-Wei 
+    last-name: Lin
+  highlight-author:
+    name: Shang-Wei
+    last-name: Lin
+  title: Automatic Synthesis and Verification of Real-Time Embedded Software
+  venue: International Conference on Embedded and Ubiquitous Computing (EUC)
+  publish-detail: LNCS Vol. 3207, pp. 12-21
+  year: 2004
+  remark:
