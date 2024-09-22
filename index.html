@@ -14,6 +14,7 @@ layout: default
           <button class="nav-link active" id="nav-bio-tab" data-bs-toggle="tab" data-bs-target="#nav-bio" type="button" role="tab" aria-controls="nav-bio" aria-selected="true">Biography</button>
           <button class="nav-link" id="nav-work-tab" data-bs-toggle="tab" data-bs-target="#nav-work" type="button" role="tab" aria-controls="nav-work" aria-selected="false">Work Experience</button>
           <button class="nav-link" id="nav-edu-tab" data-bs-toggle="tab" data-bs-target="#nav-edu" type="button" role="tab" aria-controls="nav-edu" aria-selected="false">Education</button>
+          <button class="nav-link" id="nav-award-tab" data-bs-toggle="tab" data-bs-target="#nav-award" type="button" role="tab" aria-controls="nav-award" aria-selected="false">Awards</button>
         </div>
     </nav>
 
@@ -43,6 +44,13 @@ layout: default
             {% endfor %}
         </div>
 
+        <div class="tab-pane fade" id="nav-award" role="tabpanel" aria-labelledby="nav-award-tab">
+            <br><br>
+            {% assign thepost = site.posts | where:"title","Shang-Wei LIN's Awards" %}
+            {% for post in thepost %}
+                {{ post.content }}
+            {% endfor %}
+        </div>
     </div>
 
 
