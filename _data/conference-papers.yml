@@ -20,6 +20,27 @@
   year: 
   remark: (accepted for publication)
 
+- authors:
+  - name: Bozhi 
+    last-name: Wu
+  - name: Chengjie
+    last-name: Liu
+  - name: Zhiming  
+    last-name: Li
+  - name: Yushi 
+    last-name: Cao
+  - name: Jun 
+    last-name: Sun
+  - name:  Shang-Wei 
+    last-name: Lin
+  highlight-author:
+    name: Shang-Wei
+    last-name: Lin
+  title: "Enhancing Vulnerability Detection via Inter-procedural Semantic Completion"
+  venue: The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA)
+  publish-detail: 
+  year: 2025
+  remark: (accepted for publication)
 
 - authors:
   - name: Zhiming 
