@@ -20,6 +20,38 @@
   year: 
   remark: (accepted for publication)
 
+- authors:
+  - name: Xiuting
+    last-name: Ge
+  - name: Chunrong
+    last-name: Fang
+  - name: Quanjun
+    last-name: Zhang
+  - name: Daoyuan
+    last-name: Wu
+  - name: Bowen
+    last-name: Yu
+  - name: Qirui
+    last-name: Zheng
+  - name: An
+    last-name: Guo
+  - name: Shang-Wei
+    last-name: Lin
+  - name: Zhihong
+    last-name: Zhao
+  - name: Yang
+    last-name: Liu
+  - name: Zhenyu
+    last-name: Chen
+  highlight-author:
+    name: Shang-Wei
+    last-name: Lin
+  title: Pre-trained Model-based Actionable Warning Identification: A Feasibility Study
+  venue: ACM Transactions on Software Engineering and Methodology (TOSEM)
+  publish-detail: 
+  year: 2025
+  remark: (accepted for publication)
+
 
 - authors:
   - name: Xiuting 
