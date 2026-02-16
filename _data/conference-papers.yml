@@ -21,6 +21,48 @@
   remark: (accepted for publication)
 
 - authors:
+  - name: Yupeng
+    last-name: Cheng
+  - name: Zi Pong 
+    last-name: Lim
+  - name: Sarthak Ketanbhai 
+    last-name: Modi
+  - name: Yon Shin
+    last-name: Teo
+  - name: Yushi 
+    last-name: Cao
+  - name: Shang-Wei 
+    last-name: LIN
+  highlight-author:
+    name: Shang-Wei
+    last-name: Lin
+  title: Towards Calibration Enhanced Network by Inverse Adversarial Attack
+  venue: IEEE Conference on Artificial Intelligence (CAI)
+  publish-detail: 
+  year: 2026
+  remark: (accepted for publication)
+
+- authors:
+  - name: Shang-Wei
+    last-name: Lin
+  - name: Si-Han
+    last-name: Chen
+  - name: Lei-Han
+    last-name: Yao
+  - name: Yu-Chung
+    last-name: Chen
+  - name: Yean-Ru
+    last-name: Chen 
+  highlight-author:
+    name: Shang-Wei
+    last-name: Lin
+  title: A Quantum SMT Solver for Bit-Vector Theory
+  venue: International Conference on Quantum Communications, Networking, and Computing (QCNC)
+  publish-detail: 
+  year: 2026
+  remark: (accepted for publication)
+
+- authors:
   - name: Bozhi 
     last-name: Wu
   - name: Chengjie
