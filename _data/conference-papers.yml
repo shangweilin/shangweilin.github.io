@@ -21,6 +21,26 @@
   remark: (accepted for publication)
 
 - authors:
+  - name: Zi Pong
+    last-name: Lim
+  - name: Bozhi
+    last-name: Wu
+  - name: Yon Shin
+    last-name: Teo
+  - name: Shang-Wei
+    last-name: Lin
+  - name: Yi
+    last-name: Li 
+  highlight-author:
+    name: Shang-Wei
+    last-name: Lin
+  title: "Shift-Left Requirements Verification: Integrating LLMs and Formal Methods for Automotive Systems"
+  venue: Industry Day Track, International Symposium on Formal Methods (FM)
+  publish-detail: 
+  year: 2026
+  remark: (accepted for publication)
+
+- authors:
   - name: Yupeng
     last-name: Cheng
   - name: Zi Pong 
