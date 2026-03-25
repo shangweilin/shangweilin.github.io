@@ -21,6 +21,36 @@
   remark: (accepted for publication)
 
 - authors:
+  - name: Han
+    last-name: Liu 
+  - name: Jian
+    last-name: Zhang
+  - name: Cen
+    last-name: Zhang
+  - name: Xiaohan
+    last-name: Zhang
+  - name: Kaixuan
+    last-name: Li
+  - name: Sen
+    last-name: Chen
+  - name: Shang-Wei
+    last-name: Lin
+  - name: Yixiang
+    last-name: Chen
+  - name: Xinghua
+    last-name: Li
+  - name: Yang
+    last-name: Liu
+  highlight-author:
+    name: Shang-Wei
+    last-name: Lin
+  title: "DeepFWI: Identifying Bug-Sensitive Warnings with Multi-Modal Code-Warning Semantics"
+  venue: IEEE Transactions on Software Engineering (TSE)
+  publish-detail: 
+  year: 2026
+  remark: (accepted for publication)
+
+- authors:
   - name: Xiuting
     last-name: Ge
   - name: Chunrong
