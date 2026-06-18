@@ -21,6 +21,30 @@
   remark: (accepted for publication)
 
 - authors:
+  - name: Fenghua 
+    last-name: Wu
+  - name: Wenbing 
+    last-name: Tang
+  - name: Yuan 
+    last-name: Zhou
+  - name: Shang-Wei 
+    last-name: Lin
+  - name: Hesuan 
+    last-name: Hu
+  - name: Yang 
+    last-name: Liu
+  - name: Zuohua 
+    last-name: Ding
+  highlight-author:
+    name: Shang-Wei
+    last-name: Lin
+  title: "Fuzzy-DDPG: Integrating Fuzzy Logic with Continuous Deep Reinforcement Learning for Mobile Robot Motion Planning"
+  venue: Fuzzy Sets and Systems
+  publish-detail: Vol. 542, 109967
+  year: 2026
+  remark:
+
+- authors:
   - name: Han
     last-name: Liu 
   - name: Jian
