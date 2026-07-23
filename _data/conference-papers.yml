@@ -21,6 +21,24 @@
   remark: (accepted for publication)
 
 - authors:
+  - name: Lei-Han
+    last-name: Yao
+  - name: Shang-Wei
+    last-name: Lin
+  - name: Yu-Chung
+    last-name: Chen
+  - name: Yean-Ru 
+    last-name: Chen
+  highlight-author:
+    name: Shang-Wei
+    last-name: Lin
+  title: "A Modular and T-Gate Efficient Architecture for Quantum Leading-Zero/One Counter"
+  venue: IEEE International Conference on Quantum Computing and Engineering (QCE)
+  publish-detail: 
+  year: 2026
+  remark: (accepted for publication)
+
+- authors:
   - name: Zi Pong
     last-name: Lim
   - name: Bozhi
